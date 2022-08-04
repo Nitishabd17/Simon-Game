@@ -7,7 +7,7 @@ body {
   font-family: 'Press Start 2P', cursive;
   font-size: 3.1rem;
   line-height: 5rem;
-  margin:  10% 10% 23%;
+  margin:  10% 10% 30%;
   color: #FEF2BF;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 .btnn {
-  margin: 20px;
+  margin: 25px;
   display: inline-block;
   height: 170px;
   width: 170px;
@@ -61,7 +61,7 @@ body {
 }
 
 .yellow {
-  background-color: white;
+  background-color: gray;
 }
 
 .pressed {
